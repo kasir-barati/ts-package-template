@@ -1,3 +1,3 @@
-const greet = () => "Helloooooo";
+const greet = () => 'Helloooooo';
 
 export default greet;
